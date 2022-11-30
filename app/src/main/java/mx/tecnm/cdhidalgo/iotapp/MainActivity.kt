@@ -27,7 +27,7 @@ class MainActivity : AppCompatActivity() {
 //        retrasar incio por 2 seg
       //  Thread.sleep(2000);
 //        establecer tema
-        setTheme(R.style.Theme_IotApp);
+       // setTheme(R.style.Theme_IotApp);
 
 
         super.onCreate(savedInstanceState)
