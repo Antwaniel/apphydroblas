@@ -18,13 +18,14 @@
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:srcCompat="@drawable/prueba" />
+        app:srcCompat="@drawable/netflix" />
 
     <TextView
         android:id="@+id/hydroblasTextView"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_marginBottom="30dp"
+        android:fontFamily="@font/audiowide"
         android:text="Hydroblas"
         android:textColor="@color/azul"
         android:textSize="60sp"
